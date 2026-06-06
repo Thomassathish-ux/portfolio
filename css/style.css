@@ -1084,7 +1084,7 @@ a.awilo_fn_circle_link:hover:after {
 }
 
 .ux-project_fn_services .s_item1 {
-	background-image: url(../img/portfolio/kiosk.jpg);
+	background-image: url(../img/portfolio/paulsfashion.png);
 	object-fit: cover;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1093,7 +1093,7 @@ a.awilo_fn_circle_link:hover:after {
 }
 
 .ux-project_fn_services .s_item2 {
-	background-image: url(../img/portfolio/smart-watch.jpg);
+	background-image: url(../img/portfolio/freshbite.png);
 	object-fit: cover;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1102,7 +1102,7 @@ a.awilo_fn_circle_link:hover:after {
 }
 
 .ux-project_fn_services .s_item3 {
-	background-image: url(../img/portfolio/cookies.jpg);
+	background-image: url(../img/portfolio/kiosk.jpg);
 	object-fit: cover;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1111,6 +1111,24 @@ a.awilo_fn_circle_link:hover:after {
 }
 
 .ux-project_fn_services .s_item4 {
+	background-image: url(../img/portfolio/smart-watch.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 70vh;
+}
+
+.ux-project_fn_services .s_item5 {
+	background-image: url(../img/portfolio/cookies.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 70vh;
+}
+
+.ux-project_fn_services .s_item6 {
 	background-image: url(../img/portfolio/grocery.jpg);
 	object-fit: cover;
 	background-repeat: no-repeat;
