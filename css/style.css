@@ -1521,6 +1521,39 @@ video {
 	transition: all .3s ease;
 }
 
+.poster_fn_services .s_item6 {
+	background-image: url(../img/portfolio/poster6.png);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: start;
+	height: 90vh;
+}
+
+.poster_fn_services .s_item7 {
+	background-image: url(../img/portfolio/poster7.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: start;
+	height: 90vh;
+}
+.poster_fn_services .s_item8 {
+	background-image: url(../img/portfolio/poster8.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: start;
+	height: 90vh;
+}
+.poster_fn_services .s_item9 {
+	background-image: url(../img/portfolio/poster9.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: start;
+	height: 90vh;
+}
 .poster_fn_services .s_item1 {
 	background-image: url(../img/portfolio/poster1.png);
 	object-fit: cover;
@@ -1529,7 +1562,6 @@ video {
 	background-position: start;
 	height: 90vh;
 }
-
 .poster_fn_services .s_item2 {
 	background-image: url(../img/portfolio/poster2.png);
 	object-fit: cover;
