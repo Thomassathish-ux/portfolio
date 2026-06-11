@@ -19,6 +19,7 @@
 			this.reviewSlider();
 			this.contactForm();
 			this.toTopJumper();
+			this.imagePopup();
 			this.video();
 			this.jarallax();
 			this.anchor();
@@ -93,6 +94,23 @@
 					automaticResize: true
 				});
 			});	
+		},
+		imagePopup: function(){
+			if($().magnificPopup){
+				$('.poster-popup').magnificPopup({
+					type: 'image',
+					mainClass: 'mfp-fade',
+					removalDelay: 160,
+					image: {
+						verticalFit: true
+					},
+					callbacks: {
+						open: function(){
+							$('.mfp-container').addClass('awilo-poster-popup');
+						}
+					}
+				});
+			}
 		},
 		video: function(){
 			$('.popup-youtube').magnificPopup({
