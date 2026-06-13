@@ -1102,7 +1102,7 @@ a.awilo_fn_circle_link:hover:after {
 }
 
 .ux-project_fn_services .s_item3 {
-	background-image: url(../img/portfolio/kiosk.jpg);
+	background-image: url(../img/portfolio/proglint.jpg);
 	object-fit: cover;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1111,7 +1111,7 @@ a.awilo_fn_circle_link:hover:after {
 }
 
 .ux-project_fn_services .s_item4 {
-	background-image: url(../img/portfolio/smart-watch.jpg);
+	background-image: url(../img/portfolio/kfc.jpg);
 	object-fit: cover;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1120,7 +1120,23 @@ a.awilo_fn_circle_link:hover:after {
 }
 
 .ux-project_fn_services .s_item5 {
-	background-image: url(../img/portfolio/cookies.jpg);
+	background-image: url(../img/portfolio/pepsico.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 70vh;
+}
+.ux-project_fn_services .s_item6 {
+	background-image: url(../img/portfolio/aari-work.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 70vh;
+}
+.ux-project_fn_services .s_item7 {
+	background-image: url(../img/portfolio/smart-watch.jpg);
 	object-fit: cover;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1128,7 +1144,15 @@ a.awilo_fn_circle_link:hover:after {
 	height: 70vh;
 }
 
-.ux-project_fn_services .s_item6 {
+.ux-project_fn_services .s_item8 {
+	background-image: url(../img/portfolio/cookies.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 70vh;
+}
+.ux-project_fn_services .s_item9 {
 	background-image: url(../img/portfolio/grocery.jpg);
 	object-fit: cover;
 	background-repeat: no-repeat;
@@ -1830,6 +1854,15 @@ video {
 	background-position: center;
 	height: 70vh;
 }
+.logo_fn_services .s_item8 {
+	background-image: url(../img/portfolio/senseek.png);
+	background-color: #fff;
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 70vh;
+}
 
 .s_item1 .overlay,
 .s_item2 .overlay,
@@ -2006,6 +2039,23 @@ video {
 
 .project_fn_services .s_item3 {
 	background-image: url(../img/portfolio/proglint.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 90vh;
+}
+.project_fn_services .s_item4 {
+	background-image: url(../img/portfolio/kfc.jpg);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 90vh;
+}
+
+.project_fn_services .s_item5 {
+	background-image: url(../img/portfolio/aari-work.jpg);
 	object-fit: cover;
 	background-repeat: no-repeat;
 	background-size: cover;
