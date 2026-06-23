@@ -1586,6 +1586,14 @@ video {
 	background-position: start;
 	height: 90vh;
 }
+.poster_fn_services .s_item10 {
+	background-image: url(../img/portfolio/Dexian-poster.png);
+	object-fit: cover;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: start;
+	height: 90vh;
+}
 .poster_fn_services .s_item1 {
 	background-image: url(../img/portfolio/poster1.png);
 	object-fit: cover;
